@@ -44,6 +44,7 @@
 	"types": "build-types",
 	"sideEffects": false,
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"remove-accents": "^0.5.0"
 	},
 	"publishConfig": {

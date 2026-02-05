@@ -51,6 +51,7 @@
 		"src/**/*.scss"
 	],
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@ariakit/react": "^0.4.15",
 		"@date-fns/utc": "^2.1.1",
 		"@emotion/cache": "^11.7.1",

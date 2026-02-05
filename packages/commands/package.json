@@ -44,6 +44,7 @@
 	"react-native": "src/index",
 	"wpScript": true,
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@wordpress/base-styles": "file:../base-styles",
 		"@wordpress/components": "file:../components",
 		"@wordpress/data": "file:../data",

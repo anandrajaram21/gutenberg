@@ -53,6 +53,7 @@
 		"build-module/store/index.mjs"
 	],
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@wordpress/base-styles": "file:../base-styles",
 		"@wordpress/components": "file:../components",
 		"@wordpress/compose": "file:../compose",

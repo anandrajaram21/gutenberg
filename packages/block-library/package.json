@@ -94,6 +94,7 @@
 		"build-module/*/init.mjs"
 	],
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@wordpress/a11y": "file:../a11y",
 		"@wordpress/api-fetch": "file:../api-fetch",
 		"@wordpress/autop": "file:../autop",

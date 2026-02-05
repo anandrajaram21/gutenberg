@@ -41,6 +41,7 @@
 	},
 	"types": "build-types",
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@wordpress/data": "file:../data",
 		"@wordpress/dataviews": "file:../dataviews",
 		"@wordpress/element": "file:../element",

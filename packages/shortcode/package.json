@@ -44,6 +44,7 @@
 	"wpScriptDefaultExport": true,
 	"types": "build-types",
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"memize": "^2.0.1"
 	},
 	"publishConfig": {

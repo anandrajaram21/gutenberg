@@ -49,6 +49,7 @@
 		"build-module/index.mjs"
 	],
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@wordpress/api-fetch": "file:../api-fetch",
 		"@wordpress/block-editor": "file:../block-editor",
 		"@wordpress/blocks": "file:../blocks",

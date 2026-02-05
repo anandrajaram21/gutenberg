@@ -41,6 +41,7 @@
 		"./package.json": "./package.json"
 	},
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@axe-core/puppeteer": "^4.0.0"
 	},
 	"peerDependencies": {

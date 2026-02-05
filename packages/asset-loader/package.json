@@ -46,5 +46,8 @@
 	"types": "build-types",
 	"publishConfig": {
 		"access": "public"
+	},
+	"dependencies": {
+		"@babel/runtime": "^7.25.0"
 	}
 }

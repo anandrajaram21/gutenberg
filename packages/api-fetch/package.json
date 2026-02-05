@@ -45,6 +45,7 @@
 	"wpScriptDefaultExport": true,
 	"types": "build-types",
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@wordpress/i18n": "file:../i18n",
 		"@wordpress/url": "file:../url"
 	},

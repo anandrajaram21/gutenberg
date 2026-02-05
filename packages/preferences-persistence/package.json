@@ -44,6 +44,7 @@
 	"wpScript": true,
 	"sideEffects": false,
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@wordpress/api-fetch": "file:../api-fetch"
 	},
 	"publishConfig": {

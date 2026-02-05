@@ -47,6 +47,7 @@
 		"wp-dom-ready"
 	],
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@react-spring/web": "^9.4.5",
 		"@wordpress/a11y": "file:../a11y",
 		"@wordpress/admin-ui": "file:../admin-ui",

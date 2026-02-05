@@ -32,6 +32,7 @@
 	"module": "build-module/index.mjs",
 	"wpScriptModuleExports": "./build-module/index.mjs",
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@wordpress/boot": "file:../boot",
 		"@wordpress/data": "file:../data",
 		"@wordpress/icons": "file:../icons"

@@ -40,6 +40,7 @@
 	"react-native": "src/index",
 	"wpScript": true,
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@wordpress/base-styles": "file:../base-styles",
 		"@wordpress/block-editor": "file:../block-editor",
 		"@wordpress/block-library": "file:../block-library",

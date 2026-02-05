@@ -48,6 +48,7 @@
 		"postbox"
 	],
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@wordpress/a11y": "file:../a11y",
 		"@wordpress/admin-ui": "file:../admin-ui",
 		"@wordpress/api-fetch": "file:../api-fetch",

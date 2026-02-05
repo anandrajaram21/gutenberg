@@ -52,6 +52,7 @@
 		"build-module/store/index.mjs"
 	],
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@wordpress/a11y": "file:../a11y",
 		"@wordpress/base-styles": "file:../base-styles",
 		"@wordpress/block-editor": "file:../block-editor",

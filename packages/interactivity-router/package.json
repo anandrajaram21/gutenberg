@@ -46,6 +46,7 @@
 	},
 	"types": "build-types",
 	"dependencies": {
+		"@babel/runtime": "^7.25.0",
 		"@wordpress/a11y": "file:../a11y",
 		"@wordpress/interactivity": "file:../interactivity",
 		"es-module-lexer": "^1.5.4"
